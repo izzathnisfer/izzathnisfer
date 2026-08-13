@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://izzathnisfer.pages.dev/" target="_blank">
+  <a href="https://izzath.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
