@@ -86,6 +86,10 @@ On the engineering side I ship end to end: **fintech platforms**, **microservice
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,cloudflare,linux,git,github,postman,vscode&theme=dark"/>
 </p>
 
+<p align="center">
+  <img src="./assets/stack-marquee.svg" width="100%" alt="Python, PyTorch, scikit-learn, XGBoost, SHAP, Pandas, NumPy, Hugging Face, TypeScript, Java, C++, Dart, React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Kafka, Docker, Kubernetes, AWS, Flutter, Ballerina"/>
+</p>
+
 ---
 
 ## GitHub Analytics
@@ -101,6 +105,31 @@ On the engineering side I ship end to end: **fintech platforms**, **microservice
 <img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
 
 </div>
+
+---
+
+## How I Work
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#1a1b26','primaryColor':'#24283b','primaryTextColor':'#c0caf5','primaryBorderColor':'#7aa2f7','secondaryColor':'#24283b','tertiaryColor':'#24283b','lineColor':'#565f89','fontFamily':'ui-monospace, monospace','fontSize':'14px'}}}%%
+flowchart LR
+    Q(["Research<br/>question"]) --> D["Data<br/>& corpora"]
+    D --> M["Model<br/>or method"]
+    M --> S["System<br/>API · pipeline · interface"]
+    S --> V{"Holds up<br/>out of sample?"}
+    V -- yes --> P(["Publish / ship"])
+    V -- no --> Q
+
+    classDef start fill:#24283b,stroke:#bb9af7,stroke-width:2px,color:#c0caf5
+    classDef step fill:#24283b,stroke:#7aa2f7,stroke-width:1.5px,color:#c0caf5
+    classDef gate fill:#1f2335,stroke:#7dcfff,stroke-width:2px,color:#7dcfff
+    classDef done fill:#24283b,stroke:#9ece6a,stroke-width:2px,color:#9ece6a
+
+    class Q start
+    class D,M,S step
+    class V gate
+    class P done
+```
 
 ---
 
