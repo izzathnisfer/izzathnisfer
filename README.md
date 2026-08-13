@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:4d0d08,100:ff2b1f&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=FF2B1F&center=true&vCenter=true&width=960&lines=Izzath+Nisfer;ML+%26+NLP+Researcher;Software+Engineering+Student;CSE+%40+University+of+Moratuwa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Izzath+Nisfer;ML+%26+NLP+Researcher;Software+Engineering+Student;CSE+%40+University+of+Moratuwa" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/BSc_Eng_(Hons)_CSE-University_of_Moratuwa-FF2B1F?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BSc_Eng_(Hons)_CSE-University_of_Moratuwa-7AA2F7?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sri_Lanka-FF5C4D?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Sri_Lanka-BB9AF7?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
   <a href="https://izzathnisfer.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-FF2B1F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/izzathnisfer" target="_blank">
@@ -30,11 +30,11 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=izzathnisfer&color=FF2B1F&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=izzathnisfer&color=7AA2F7&style=flat-square&label=Profile+Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/izzathnisfer?style=flat-square&color=CC1C12&label=Followers"/>
+<img src="https://img.shields.io/github/followers/izzathnisfer?style=flat-square&color=BB9AF7&label=Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/izzathnisfer?style=flat-square&color=FF5C4D&label=Stars"/>
+<img src="https://img.shields.io/github/stars/izzathnisfer?style=flat-square&color=7DCFFF&label=Stars"/>
 
 </div>
 
@@ -92,22 +92,13 @@ On the engineering side I ship end to end: **fintech platforms**, **microservice
 
 <div align="center">
 
-<img height="200" src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
 &nbsp;
+<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit"/>
 <br/><br/>
-<img height="200" src="https://streak-stats.demolab.com/?user=izzathnisfer&theme=radical&border_radius=10&hide_border=false" alt="GitHub Streak"/>
-<br/><br/>
-<img height="200" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/izzathnisfer/izzathnisfer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language"/>
+&nbsp;
+<img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
 
 </div>
 
@@ -117,6 +108,6 @@ On the engineering side I ship end to end: **fintech platforms**, **microservice
 
 *Good research and good engineering ask the same question: does this hold up outside the case you built it for?*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2b1f,50:4d0d08,100:0a0a0a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=120&section=footer" width="100%"/>
 
 </div>
